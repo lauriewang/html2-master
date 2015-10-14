@@ -1,0 +1,33 @@
+ ul.nav li{ 
+                display: inline-block;
+                padding-right: 10px;
+            }
+ .nav1{
+ 	background-color: red;
+ }
+ .nav a{
+ 	color: white;
+ }
+ #about_blue{
+ 	background: #6495ED;
+ 	border: solid 2px black;
+ 	margin-bottom: 20px;
+ }
+ #about_yellow{
+ 	background: #FFEBCD;
+ 	border: solid 2px black;
+ }
+ .bluetext{
+ 	color: blue;
+ }
+ .importantblue{
+ 	color: blue;
+ 	font-weight: bold;
+ }
+ .importantorange{
+ 	color: orange;
+ 	font-weight: bold;
+ }
+ .orangetext{
+ 	color: orange;
+ }
